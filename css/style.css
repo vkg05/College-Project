@@ -653,7 +653,7 @@ div#blog-par {
 }
 .contact {
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
     color: #131313;
     font-size: 2em;
     font-weight: bold;
@@ -666,7 +666,7 @@ footer ul {
 footer li {
     display: inline;
     color: white;
-    padding-inline: 20px;
+    padding-inline: 25px;
 }
 .copyright {
     text-align: center;
